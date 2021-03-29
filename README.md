@@ -21,4 +21,4 @@ sudo dnf install gcc gcc-g++ gcc-gfortran libtirpc-devel
 Mostly according to:  
 https://www2.mmm.ucar.edu/wrf/OnLineTutorial/compilation_tutorial.php  
 
-![Image text](https://github.com/wsyzbsj/my_install_wrf_and_wps/blob/main/IMG_20210328_082858.jpg?raw=true)
+![Image text](https://github.com/wsyzbsj/my_install_wrf_and_wps/blob/master/IMG_20210328_082858.jpg?raw=true)
