@@ -4,7 +4,7 @@
 export WRF_VERSION="4.2.2"
 export WPS_VERSION="4.2"
 export HDF5_VERSION="1.12"
-export NETCDF_C_VERSION="4.7.4"
+export NETCDF_C_VERSION="4.8.0"
 export NETCDF_FORTRAN_VERSION="4.5.3"
 export MPICH_VERSION="3.3"
 export ZLIB_VERSION="1.2.11"
