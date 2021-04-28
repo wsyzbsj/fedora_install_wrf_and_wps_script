@@ -188,7 +188,7 @@ then
       cd WPS
       ./clean -a
       ./configure
-      sleep 60
+      vim configure.wps
       #这里去configure.wps加-fallow-argument-mismatch -fno-f2c
       ./compile | tee /var/log/compile_wrf/wps.log
       cd ..
